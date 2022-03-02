@@ -4,10 +4,12 @@ public class Main
 	    
 	    String x = "Eslam";
 	    
-	    int a = 20;
+	    int a = 64;
+            
+            String t = "playing video game"
 	    
 	    
 	    
-		System.out.println(x + "is" + a);
+		System.out.println("my name is" + x + "my favoritr number is" + a + "and my hobby is" + t);
 	}
 }
