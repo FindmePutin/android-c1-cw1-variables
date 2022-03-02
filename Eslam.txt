@@ -6,7 +6,7 @@ public class Main
 	    
 	    int a = 64;
             
-            String t = "playing video game"
+            String t = "playing video game";
 	    
 	    
 	    
