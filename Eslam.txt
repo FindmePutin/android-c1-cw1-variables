@@ -1,0 +1,13 @@
+public class Main
+{
+	public static void main(String[] args) {
+	    
+	    String x = "Eslam";
+	    
+	    int a = 20;
+	    
+	    
+	    
+		System.out.println(x + "is" + a);
+	}
+}
